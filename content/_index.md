@@ -11,7 +11,7 @@ sections:
         DMG
         Research Group
       image:
-        filename: DMG.svg
+        filename: Logo.png
       text: |
         <br>
         The <strong>DMG</strong> is a research network of researchers and students in mathematics at Deakin University.
