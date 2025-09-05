@@ -12,7 +12,7 @@ event_url: https://deakin.zoom.us/j/84035502989?pwd=tIuy66p0Uc4fxO9IDjbagAVDopJ3
 #  postcode: '94305'
 #  country: United States
 
-summary: DMG Mathematics Seminar by Prof Alexander Kruger ()
+summary: DMG Mathematics Seminar by Prof Alexander Kruger
 abstract: 'Please join us for a DMG Mathematics Seminar on zoom: the zoom link is <https://deakin.zoom.us/j/84035502989?pwd=tIuy66p0Uc4fxO9IDjbagAVDopJ3wu.1>'
 
 # Talk start and end times.
@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-09-02T00:00:00Z'
 
-authors: []
-tags: []
+authors: [Alexander Kruger]
+tags: [extremal principle]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -37,7 +37,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=362743a0-df85-4470-af40-b34f002f785e'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,6 +61,10 @@ projects:
 #
 # Further event details, including page elements such as image galleries, can be added to the body of this page.
 ---
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://deakin.au.panopto.com/Panopto/Pages/Embed.aspx?id=362743a0-df85-4470-af40-b34f002f785e&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="DMG Seminar: Prof Alex Kruger"></iframe>
+</div>
 
 **Title**: About the Extremal Principle: From Convex Analysis to Nonsmooth Analysis (Geometric Considerations)
 
