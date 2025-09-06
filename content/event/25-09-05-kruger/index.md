@@ -1,7 +1,6 @@
 ---
-title: Seminar
-
-event: DMG Seminar by Prof Alexander Kruger
+title: DMG Seminar by Prof Alexander Kruger
+event: DMG Seminar
 event_url: https://deakin.zoom.us/j/84035502989?pwd=tIuy66p0Uc4fxO9IDjbagAVDopJ3wu.1
 
 #location: Wowchemy HQ
@@ -25,7 +24,7 @@ all_day: false
 publishDate: '2025-09-02T00:00:00Z'
 
 authors: [Alexander Kruger]
-tags: [extremal principle]
+tags: [extremal principle, DMG]
 
 # Is this a featured talk? (true/false)
 featured: false
