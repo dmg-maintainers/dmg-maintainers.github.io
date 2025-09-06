@@ -46,7 +46,7 @@ image:
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
 url_code:
-url_pdf: '/flyers/DUMG/DUMG_Kruger_2025.pdf'
+#url_pdf: '/flyers/DUMG/DUMG_Kruger_2025.pdf'
 url_video:
 
 # Markdown Slides (optional).
