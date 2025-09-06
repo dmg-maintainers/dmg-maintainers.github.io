@@ -10,7 +10,7 @@ location: 'https://deakin.zoom.us/j/85764512380?pwd=bxU2bbGVm8matesm08wmac4fngGz
 #  postcode:
 #  country:
 summary:
-abstract: 'Feel free to join the Deakin Undergraduate Maths Group in the second of a series of talks designed at the undergraduate cohort.  The series aims to cover a vast and broad area of mathematics in industry and academia and inspire more people to engage with mathematics.   Dr Alexander Kruger is giving a talk on the development on non-smooth analysis, and the idea of the derivative from classical through convex to nonsmooth analysis.'
+abstract: 'Feel free to join the DUMG in the second of a series of talks designed at the undergraduate cohort.  The series aims to cover a vast and broad area of mathematics in industry and academia and inspire more people to engage with mathematics.   Dr Alexander Kruger is giving a talk on the development on non-smooth analysis, and the idea of the derivative from classical through convex to nonsmooth analysis.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
