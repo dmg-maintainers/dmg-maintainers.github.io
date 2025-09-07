@@ -12,7 +12,7 @@ on:
     branches: ['main']
     paths: ['authors.yml'] # Run when the file 'authors.yml' changes.
   schedule:
-    -cron: 30 0 * * MON # Run once a week every Monday at 00:30.
+    - cron: 30 0 * * MON # Run once a week every Monday at 00:30.
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
