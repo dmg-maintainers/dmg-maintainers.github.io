@@ -88,4 +88,4 @@ links:
   id: '2507.17272'
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+
