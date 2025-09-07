@@ -1,0 +1,58 @@
+# Hugo Blox GitHub Action to import publications from zbMath to Markdown-based webpages
+name: Import Publications From zbMath
+
+# Require permission to create a PR
+permissions:
+  contents: write
+  pull-requests: write
+
+# Run workflow when a `.bib` file is added or updated in the `data/` folder
+on:
+  push:
+    branches: ['main']
+    paths: ['authors.yml'] # Run when the file 'authors.yml' changes.
+  schedule:
+    -cron: 30 0 * * MON # Run once a week every Monday at 00:30.
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  hugoblox:
+    if: github.repository_owner != 'HugoBlox'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v4
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install git+https://github.com/dmg-maintainers/zbmathimport.git
+      - name: Run Academic (Bibtex To Markdown Converter)
+        # Check `.yml` file exists for case when action runs on `.yml` deletion
+        # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
+        if: ${{ hashFiles('authors.bib') != '' }}
+        run: zbmathimport -c authors.bib -o content/publication/ --compact
+      - name: Create Pull Request
+        # Set ID for `Check outputs` stage
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'content: import publications from Bibtex'
+          title: Hugo Blox Builder - Import latest publications
+          body: |
+            Import the latest publications from [zbMath](https://zbmath.org) to `content/publication/`.
+            [View Documentation](https://github.com/dmg-maintainers/zbmathimport)
+          base: main
+          labels: automated-pr, content
+          branch: hugoblox-import-publications
+          delete-branch: true
+      - name: Check outputs
+        if: ${{ steps.cpr.outputs.pull-request-number }}
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
