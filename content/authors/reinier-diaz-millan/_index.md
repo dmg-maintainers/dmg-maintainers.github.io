@@ -10,7 +10,7 @@ last_name: Diaz Millan
 superuser: false
 
 # Role/position
-role: Lecturer
+role: Lecturer in Mathematics
 
 # Organizations/Affiliations
 organizations:
