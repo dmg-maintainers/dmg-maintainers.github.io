@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/dmg-network/web'
+    url: 'https://github.com/dmg-maintainers/dmg-maintainers.github.io.git'
     content_dir: content
     branch: main
   avatar:
@@ -120,4 +120,4 @@ publications:
 # Social Media [[Added 02 Sep 2025]]
 social:
   name: 'linkedin'
-  url: 'https://www.linkedin.com/'
+  url: 'https://www.linkedin.com/groups/13384060/'
