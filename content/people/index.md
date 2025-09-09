@@ -14,8 +14,9 @@ sections:
           - Researchers
           - HDR Students
           - Undergrad Students
-          - Visitors
+          - Current Visitors
           - Alumni
+          - Past Visitors
           - Admin
       sort_by: Params.last_name
       sort_ascending: true
