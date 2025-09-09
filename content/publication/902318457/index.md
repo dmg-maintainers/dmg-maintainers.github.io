@@ -1,7 +1,7 @@
 ---
 title: Frank-Wolfe algorithm for DC optimization problem
 authors:
-- Millán, R. Díaz
+- reinier-diaz-millan
 - Ferreira, O. P.
 - julien-ugon
 date: '2025-01-01'
