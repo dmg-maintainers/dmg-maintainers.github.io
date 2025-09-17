@@ -21,9 +21,13 @@ organizations:
 bio: My research interests include ...
 
 interests:
-  - Global analysis
-  - Index theory 
-  - Functional calculus
+    - Global Analysis
+    - Differential Geometry
+    - Operator Theory
+    - Functional Analysis
+    - Index theory
+    - Spectral Theory
+    - Functional Calculus
 
 education:
   courses:
@@ -80,4 +84,17 @@ highlight_name: false
 user_groups:
   - Admin
   - Researchers
+
 ---
+
+I am a global analyst. I use operator methods in geometry, particular when they encode geometric/topological information. I typically work with differential operators on vector bundles and analyse them through functional calculus and real-variable harmonic analysis.
+
+
+My current focus is on index theory in settings with boundary. I have contributed extensively to the topic over the past 5 years, in particular upgrading Fourier circle methods with the holomorphic functional calculus. This has allowed for analysis of non-Dirac-type operators and also non-compact boundary. 
+
+Broadly speaking, the following are my detailed interests: 
+  - Global analysis - use of operator methods in geometry, index theory.
+  - Harmonic analysis - in the flavour of Calderon, Zygmund, Stein, etc.
+  - Geometric analysis - analysis on non-compact manifolds, non-smooth metrics, analysis on measure metric spaces, Spin geometry.
+  - Boundary value problems - first-order boundary value problems on bundles, non-smooth coefficients, non-compact boundary.
+  - Spectral and operator theory - essential self-adjointness, asymptotics of eigenvalues, etc.

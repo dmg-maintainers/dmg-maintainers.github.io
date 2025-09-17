@@ -12,7 +12,9 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Researchers
-          - HDR Students
+          - PhD Students
+          - MSc Students
+          - Honours Students
           - Undergrad Students
           - Current Visitors
           - Alumni
