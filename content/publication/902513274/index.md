@@ -1,8 +1,8 @@
 ---
 title: Geometric singularities and Hodge theory
 authors:
-- lashi-bandara
-- Habib, Georges
+- Lashi-Bandara
+- Georges Habib
 date: '2025-01-01'
 publishDate: '2025-09-09T04:25:08.004365+00:00'
 publication_types:

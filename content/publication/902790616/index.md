@@ -1,9 +1,9 @@
 ---
 title: Frank-Wolfe algorithm for star-convex functions
 authors:
-- reinier-diaz-millan
-- Ferreira, Orizon Pereira
-- julien-ugon
+- Reinier-Diaz-Millan
+- Orizon Pereira Ferreira
+- Julien-Ugon
 date: '2025-01-01'
 publishDate: '2025-09-09T04:25:07.969136+00:00'
 publication_types:

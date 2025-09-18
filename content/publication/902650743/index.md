@@ -1,9 +1,9 @@
 ---
 title: A refined lower bound theorem for $d$-polytopes with at most $2d$ vertices
 authors:
-- guillermo-pineda-villavicencio
-- Wang, Jie
-- Yost, David
+- Guillermo-Pineda-Villavicencio
+- Jie Wang
+- David Yost
 date: '2025-01-01'
 publishDate: '2025-09-09T04:25:07.984679+00:00'
 publication_types:

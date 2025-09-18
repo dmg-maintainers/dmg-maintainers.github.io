@@ -1,8 +1,8 @@
 ---
 title: The space of rough Riemannian metrics
 authors:
-- lashi-bandara
-- Hassan, Anisa
+- Lashi-Bandara
+- Anisa Hassan
 date: '2025-01-01'
 publishDate: '2025-09-09T04:25:08.011094+00:00'
 publication_types:

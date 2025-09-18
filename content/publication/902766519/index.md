@@ -1,9 +1,9 @@
 ---
 title: KKT-based optimality conditions for neural network approximation
 authors:
-- Peiris, Vinesha
-- Sukhorukova, Nadezda
-- julien-ugon
+- Vinesha Peiris
+- Nadezda Sukhorukova
+- Julien-Ugon
 date: '2025-01-01'
 publishDate: '2025-09-09T04:25:07.997583+00:00'
 publication_types:
