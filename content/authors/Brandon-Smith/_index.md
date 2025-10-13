@@ -39,16 +39,13 @@ education:
 social:
   - icon: globe
     icon_pack: fas
-    link: 'https://personal-delta-vert.vercel.app'
+    link: https://www.brandon-smith.me/about/
   - icon: envelope
     icon_pack: fas
     link: s222139956@deakin.edu.au
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/brandonsmith--/
-  - icon: blog
-    icon_pack: fab
-    link: https://www.brandon-smith.me/about/
 
 
 # Link to a PDF of your resume/CV from the About widget.
