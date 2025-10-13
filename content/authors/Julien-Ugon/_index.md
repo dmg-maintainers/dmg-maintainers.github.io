@@ -39,12 +39,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://julienugon.com'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:julien.ugon@deakin.edu.au'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: arxiv
+    icon_pack: ai
+    link: 'https://arxiv.org/a/ugon_j_1.html'
+  - icon: orcid
+    icon_pack: ai
+    link: 'https://orcid.org/0000-0001-5290-8051'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=eF4Vpe8AAAAJ
