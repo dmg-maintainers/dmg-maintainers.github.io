@@ -15,7 +15,7 @@ role: Honours Student
 # Organizations/Affiliations
 organizations:
   - name: Deakin University
-    url: 'WEBURL?'
+#    url: 'WEBURL?'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Honours student.  HLF.
@@ -58,5 +58,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Honours Students
 ---
