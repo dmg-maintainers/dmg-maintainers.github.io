@@ -42,7 +42,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:trill.white@deakin.edu.au'
-- icon: linkedin-in
+  - icon: linkedin-in
     icon_pack: fab
     link: www.linkedin.com/in/trill-w-15ab43285
   - icon: arxiv
