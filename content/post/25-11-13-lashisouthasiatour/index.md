@@ -7,8 +7,8 @@ summary: ""
 authors: [""]
 tags: []
 categories: []
-date: 2025-11-12T10:10:00+10:00
-lastmod: 2025-11-12T10:10:00+10:00
+date: 2025-11-13T10:10:00+10:00
+lastmod: 2025-11-13T10:10:00+10:00
 featured: false
 draft: false
 
@@ -49,7 +49,7 @@ During his leave visiting extended family in Sri Lanka, Lashi was invited by [Th
 
 ![](USJ-poster.jpeg) ![](USJ-talk.jpeg)
 
-He was also invited by [Ashwini Amarasinghe](https://sci.pdn.ac.lk/maths/staff/Ashwini-Amarasinghe) and [Gayana Jayasinghe](https://sites.google.com/view/gayanajayasinghe/home) from the [University of Peradeniya] (https://pdn.ac.lk) and to give talks to their undergraduate students. Peradeniya has two departments of mathematics - one in the [Faculty of Science](https://sci.pdn.ac.lk/maths) and the other in the [Faculty of Enginnering](https://eng.pdn.ac.lk/maths/). He gave the same talk as for USJ for the Science Faculty students at Peradeniya, who are focused more on pure mathematics, organised by the [Mathematical Society](https://mathema.soc.pdn.ac.lk) of Peradeniya.
+He was also invited by [Ashwini Amarasinghe](https://sci.pdn.ac.lk/maths/staff/Ashwini-Amarasinghe) and [Gayana Jayasinghe](https://sites.google.com/view/gayanajayasinghe/home) from the [University of Peradeniya](https://pdn.ac.lk) and to give talks to their undergraduate students. Peradeniya has two departments of mathematics - one in the [Faculty of Science](https://sci.pdn.ac.lk/maths) and the other in the [Faculty of Enginnering](https://eng.pdn.ac.lk/maths/). He gave the same talk as for USJ for the Science Faculty students at Peradeniya, who are focused more on pure mathematics, organised by the [Mathematical Society](https://mathema.soc.pdn.ac.lk) of Peradeniya.
 
 ![](Pera-poster.jpeg) 
 
