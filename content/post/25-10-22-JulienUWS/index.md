@@ -29,4 +29,4 @@ image:
 projects: []
 ---
 
-[Julien Ugon](author/julien-ugon) was kindly invited by Mehdi Tavakol at the University of Western Sydney to work on their joing project. While there, Julien gave a seminar on the teaching approach used in the school of IT at Deakin university, titled "Rekindling students' engagement in mathematics through co-constructive practice". The slides can be found [here](https://julien-ugon.gitlab.io/UWS-Presentation/Teaching/Presentation.html).
+[Julien Ugon](../author/julien-ugon) was kindly invited by Mehdi Tavakol at the University of Western Sydney to work on their joing project. While there, Julien gave a seminar on the teaching approach used in the school of IT at Deakin university, titled "Rekindling students' engagement in mathematics through co-constructive practice". The slides can be found [here](https://julien-ugon.gitlab.io/UWS-Presentation/Teaching/Presentation.html).

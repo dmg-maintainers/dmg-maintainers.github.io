@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-[Julien Ugon](author/julien-ugon) and Reinier Diáz Millán attended a two days workshop on optimisation, the [Optimisation Days](https://www.unsw.edu.au/science/our-schools/maths/our-research/optimisation/opt_days) at the university of New South Wales. Reinier's trip was kindly supported by Vera Roshchina.
+Julien-Ugon [Julien Ugon](../author/julien-ugon) and [Reinier Diáz Millán](../author/reinier-diaz-millan) attended a two days workshop on optimisation, the [Optimisation Days](https://www.unsw.edu.au/science/our-schools/maths/our-research/optimisation/opt_days) at the university of New South Wales. Reinier's trip was kindly supported by Vera Roshchina.
 
 Reinier gave a presentation titled "Frank–Wolfe algorithm for DC optimisation problem".
