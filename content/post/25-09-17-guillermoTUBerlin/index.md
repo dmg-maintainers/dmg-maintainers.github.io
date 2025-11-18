@@ -32,7 +32,7 @@ projects: []
 
 **Title:** Lower bound theorems on the face numbers of polytopes with few vertices
 
-**Abstract:** We study lower bound theorems for the number of $k$-faces ($1\le k\le d-2$) of a $d$-dimensional polytope $P$ (or \emph{$d$-polytope}) with up to $3d-1$ vertices. Earlier results include the following: Xue (2021) established the case of polytopes with at most $2d$ vertices; Xue (2022) and Pineda-Villavicencio and Yost (2022) independently settled the case of $2d+1$ vertices; and Pineda-Villavicencio, Tritama, and Yost (2024) extended this to $2d+2$ vertices.
+**Abstract:** We study lower bound theorems for the number of $k$-faces ($1\le k\le d-2$) of a $d$-dimensional polytope $P$ (or *$d$-polytope*) with up to $3d-1$ vertices. Earlier results include the following: Xue (2021) established the case of polytopes with at most $2d$ vertices; Xue (2022) and Pineda-Villavicencio and Yost (2022) independently settled the case of $2d+1$ vertices; and Pineda-Villavicencio, Tritama, and Yost (2024) extended this to $2d+2$ vertices.
 
 We present a recent lower bound theorem covering $d$-polytopes with up to $3d-1$ vertices. If $P$ has exactly $d+2$ facets and at least $2d+\ell$ vertices, the lower bound is tight for certain combinations of $d$ and $\ell$. When  $P$ has at least $d+3$ facets, the lower bound is always tight, with  equality for some $1\le k\le d-2$ only when $P$ has precisely  $d+3$ facets. These results confirm a conjecture of Pineda-Villavicencio (2024).
 
