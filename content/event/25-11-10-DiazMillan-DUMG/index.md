@@ -15,7 +15,7 @@ abstract: 'Hidden within the fabric of mathematics lies a result so universal th
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2025-11-10T12:00:00+10:00
-date_end: 2025-11-10T12:00:00+10:00
+date_end: 2025-11-10T13:00:00+10:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
