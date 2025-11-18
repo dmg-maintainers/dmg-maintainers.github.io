@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-[Guillermo Pineda Villavicencio](authors/Guillermo-Pineda-Villavicencio) gave a seminar at TU Berlin on the 17th of September.
+[Guillermo Pineda Villavicencio](../authors/Guillermo-Pineda-Villavicencio) gave a seminar at TU Berlin on the 17th of September.
 
 **Title:** Lower bound theorems on the face numbers of polytopes with few vertices
 
