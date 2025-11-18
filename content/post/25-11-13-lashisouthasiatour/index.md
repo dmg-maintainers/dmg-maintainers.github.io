@@ -29,7 +29,7 @@ projects: []
 ---
 
 
-[Lashi Bandara](author/lashi-bandara) visited [Aprameyan Parthasarathy](https://math.iitm.ac.in//innerfaculty.php?fname=Aprameyan%20P) at  [IIT-Madras](https://math.iitm.ac.in/) on invitation from 6th to 10th October.
+[Lashi Bandara](../author/lashi-bandara) visited [Aprameyan Parthasarathy](https://math.iitm.ac.in//innerfaculty.php?fname=Aprameyan%20P) at  [IIT-Madras](https://math.iitm.ac.in/) on invitation from 6th to 10th October.
 
 In the IIT-Madras Maths Colloquium, he gave a talk titled "Functional calculus, garnished with a little geometry". 
 
