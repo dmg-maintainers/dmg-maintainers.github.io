@@ -30,9 +30,9 @@ projects: []
 
 The 2025 ADR prize recipients have been announced. Congratulations to our mathematical students with successful projects:
 
-- [Brianna Laird](../authors/Brianna-Laird) under the supervision of [Reinier Díaz Millán](../authors/Reinier-Diaz-Millan) and [Julien Ugon](../authors/Julien-Ugon) on "Generalising the Weber Problem via Bregman Divergences in Infinite Dimensional Spaces".
-- [Kate Suraev](../authors/Kate-Suraev) under the supervision of [Julien Ugon](../authors/Julien-Ugon) and [Lashi Bandara](../authors/Lashi-Bandara) on "Formal Verification of Mathematical Proofs in Lean".
-- Bao Minh Tran, under the supervision of [Gleb Beliakov](../authors/Gleb-Beliakov) and [Simon James](../authors/Simon-James) on "Out-of-distribution data fitting".
+- [Brianna Laird](../author/brianna-laird) under the supervision of [Reinier Díaz Millán](../author/reinier-diaz-millan) and [Julien Ugon](../author/julien-ugon) on "Generalising the Weber Problem via Bregman Divergences in Infinite Dimensional Spaces".
+- [Kate Suraev](../author/kate-suraev) under the supervision of [Julien Ugon](../author/julien-ugon) and [Lashi Bandara](../author/lashi-bandara) on "Formal Verification of Mathematical Proofs in Lean".
+- Bao Minh Tran, under the supervision of [Gleb Beliakov](../author/gleb-beliakov) and [Simon James](../author/simon-james) on "Out-of-distribution data fitting".
 
 
 Congratulations to our three students and we look forward to their projects.

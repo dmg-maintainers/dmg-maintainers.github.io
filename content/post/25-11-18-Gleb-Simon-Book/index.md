@@ -28,5 +28,5 @@ image:
 projects: []
 ---
 
-Gleb and Simon's new book, [Choquet Capacities and Fuzzy Integrals](https://doi.org/10.1007/978-3-031-97070-2), co-authored with Jian-Zhang Wu, has just appeared.
+[Gleb](../author/gleb-beliakov) and [Simon](../author/simon-james)'s new book, [Choquet Capacities and Fuzzy Integrals](https://doi.org/10.1007/978-3-031-97070-2), co-authored with Jian-Zhang Wu, has just appeared.
 

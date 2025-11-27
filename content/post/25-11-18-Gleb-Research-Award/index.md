@@ -28,5 +28,5 @@ image:
 projects: []
 ---
 
-Prof Beliakov was named in the Australian's [2026 Research Magazine](https://www.theaustralian.com.au/special-reports/research-magazine/the-2026-research-magazine-showcases-the-benefits-of-research/news-story/cd04714e9c76e43bbcd32ad0288e7470) as a top researcher in Engineering and Computer Science, in the field of Fuzzy Systems. Congratulations to Gleb for this tremendous achievement.
+[Prof Beliakov](../author/gleb-beliakov) was named in the Australian's [2026 Research Magazine](https://www.theaustralian.com.au/special-reports/research-magazine/the-2026-research-magazine-showcases-the-benefits-of-research/news-story/cd04714e9c76e43bbcd32ad0288e7470) as a top researcher in Engineering and Computer Science, in the field of Fuzzy Systems. Congratulations to Gleb for this tremendous achievement.
 

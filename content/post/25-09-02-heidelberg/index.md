@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Congratulations to Trill White who will attend the [12-th Heidelberg forum](https://www.heidelberg-laureate-forum.org/) from the 14th to the 19th of September.
+Congratulations to [Trill White](../author/trill-white) who will attend the [12-th Heidelberg forum](https://www.heidelberg-laureate-forum.org/) from the 14th to the 19th of September.

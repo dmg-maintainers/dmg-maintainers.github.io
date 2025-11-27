@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-Congratulations to [Trill White](../authors/Trill-White) and Hoa My Huy Lim for their success in joining the [AMSI Summer Research Scholarship Program](https://srs.amsi.org.au/).
+Congratulations to [Trill White](../author/trill-white) and Hoa My Huy Lim for their success in joining the [AMSI Summer Research Scholarship Program](https://srs.amsi.org.au/).
 
-Trill will work under the supervision of [Dr Kelvin Li](../authors/Kelvin-Li) on her project "Optimisation in BKZ: An analysis of dynamic block size" and Hoa will work under the supervision of Dr Sergey Polyakovskiy on her project "Just-in-Time Batch Scheduling Subject to Batch Size and Packing Constraints".
+Trill will work under the supervision of [Dr Kelvin Li](../author/kelvin-li) on her project "Optimisation in BKZ: An analysis of dynamic block size" and Hoa will work under the supervision of Dr Sergey Polyakovskiy on her project "Just-in-Time Batch Scheduling Subject to Batch Size and Packing Constraints".
