@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-[Simon James](../author/simon-james) and [Julien Ugon](../author/julien-ugon) attended the [Meanjin Delta conference](https://fyimaths.weebly.com/meanjin-delta-2025.html) on the 25 and 26th of November. Julien presented a talk titled "Co-constructive mastery-based learning in mathematics" and Simon's presentation was titled "Five years of the mathematics yearbook: a side quest in co- constructive learning".
+[Simon James](../author/simon-james) and [Julien Ugon](../author/julien-ugon) attended the [Meanjin Delta conference](https://fyimaths.weebly.com/meanjin-delta-2025.html) on the 25 and 26th of November. Julien presented a talk titled "Co-constructive mastery-based learning in mathematics" and Simon's presentation was titled "Five years of the mathematics yearbook: a side quest in co- constructive learning". We acknowledge funding from the faculty of SEBE that enabled us to attend this conference.
