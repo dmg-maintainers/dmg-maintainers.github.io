@@ -44,7 +44,7 @@ projects:
 # Further event details, including page elements such as image galleries, can be added to the body of this page.
 ---
 
-**Title:* Soft Happy Colouring and Community
+**Title:** Soft Happy Colouring and Community
 
 A talk by Iman Shekkariz
 
@@ -57,7 +57,7 @@ References
 
 
 
-**Title:* Faces of convex sets and its relation with the generalised interior
+**Title:** Faces of convex sets and its relation with the generalised interior
 
 A talk by Reinier Diaz Millan
 
