@@ -17,6 +17,10 @@ organizations:
   - name: INSTITUTION
     url: 'WEBURL?'
 
+# We need this to automatically populate the list of publications from the website.
+zbmath_id: ZB_MATH ID
+
+
 # Short bio (displayed in user profile at end of posts)
 bio: A BIT OF A BIO 
  
