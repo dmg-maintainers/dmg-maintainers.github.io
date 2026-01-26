@@ -35,8 +35,7 @@ jobs:
       - name: Run zbmathimport (zbMath To Markdown Importer)
         # Check `.yml` file exists for case when action runs on `.yml` deletion
         # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
-        if: ${{ hashFiles('authors.yml') != '' }}
-        run: zbmathimport -c authors.yml -o content/publication/ --compact
+        run: zbmathimport -c content/authors -o content/publication/ --compact
       - name: Create Pull Request
         # Set ID for `Check outputs` stage
         id: cpr
