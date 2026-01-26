@@ -17,6 +17,9 @@ organizations:
   - name: Deakin University
     url: 'julienugon.com'
 
+zbmath_id:
+  - ugon.julien
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nonsmooth analysis, optimisation and generalised convexity.
 

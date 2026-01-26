@@ -17,6 +17,9 @@ organizations:
   - name: Deakin University
     url: https://personal-sites.deakin.edu.au/~gleb
 
+zbmath_id:
+  - beliakov.gleb
+
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 

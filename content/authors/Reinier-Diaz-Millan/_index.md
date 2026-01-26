@@ -17,6 +17,10 @@ organizations:
   - name: Deakin University
     url: https://experts.deakin.edu.au/52153-reinier-diaz-millan
 
+zbmath_id:
+  - diaz-millan.r
+  - millan.reinier-diaz
+
 # Short bio (displayed in user profile at end of posts)
 #bio: A BIT OF A BIO
 

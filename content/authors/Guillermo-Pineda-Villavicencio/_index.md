@@ -17,6 +17,9 @@ organizations:
   - name: Deakin University
     url: 'https://experts.deakin.edu.au/50589-guillermo-pineda-villavicencio'
 
+zbmath_id:
+  - pineda-villavicencio.guillermo
+
 # Short bio (displayed in user profile at end of posts)
 bio: In May 2021, I became a Fellow (FHEA) of AdvanceHE, a member-led, sector-owned charity dedicated to enhancing higher education for staff, students, and society worldwide. Additionally, in 2016, I completed a Graduate Certificate in Education (Tertiary Teaching) at Federation University Australia (formerly University of Ballarat). 
 

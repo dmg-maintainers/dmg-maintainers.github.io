@@ -17,7 +17,8 @@ organizations:
   - name: Deakin University
     url: https://experts.deakin.edu.au/53462-atabak-elmi
 
-zbmath_id: elmi.atabak
+zbmath_id:
+  - elmi.atabak
 
 # Short bio (displayed in user profile at end of posts)
 interests:

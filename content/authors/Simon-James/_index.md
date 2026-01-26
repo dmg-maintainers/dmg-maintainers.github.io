@@ -17,6 +17,10 @@ organizations:
   - name: Deakin University
     url:  https://experts.deakin.edu.au/29627-simon-james
 
+zbmath_id:
+  - james.simon
+
+
 # Short bio (displayed in user profile at end of posts)
 bio: I completed my PhD on the topic of aggregation functions in 2010 at Deakin University under the supervision of Gleb Beliakov and have been there in the School of IT since 2011.  My main research areas of aggregation and non-additive or fuzzy integrals are most commonly applied in computational intelligence and machine learning as prediction and analysis tools.  Recently my main contributions have involved developing the theory of buoyant/antibuoyant capacities as well as looking at simplifying assumptions that can make capacities and fuzzy measures (which are used to define the weights for Choquet and Sugeno integrals) more applicable to large datasets.
  

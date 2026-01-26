@@ -17,6 +17,9 @@ organizations:
   - name: Deakin University
     url: 'https://experts.deakin.edu.au/64499-lashi-bandara'
 
+zbmath_id:
+  - bandara.lashi
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ...
 
