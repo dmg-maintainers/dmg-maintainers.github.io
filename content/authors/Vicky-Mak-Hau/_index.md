@@ -22,7 +22,7 @@ zbmath_id:
   - mak.vicky-h
 
 # Short bio (displayed in user profile at end of posts)
-#Professor Vicky Mak-Hau leads the Advancing Optimization for Future Challenges Research Program, which focuses on fundamental research in industrial automation and optimization with applications across transportation, energy, defence, satellite communications, and health. She received her PhD in Mathematics and Statistics from the University of Melbourne in 2002, followed by two years of postdoctoral research at CMIS/CSIRO and the University of Melbourne before joining Deakin University in 2004. Professor Mak-Hau has served as a Chief Investigator on three ARC Discovery Projects and one ARC LIEF Project, and she has led multiple industry‑funded and Deakin‑supported research projects.
+bio: Professor Vicky Mak-Hau leads the Advancing Optimization for Future Challenges Research Program, which focuses on fundamental research in industrial automation and optimization with applications across transportation, energy, defence, satellite communications, and health. She received her PhD in Mathematics and Statistics from the University of Melbourne in 2002, followed by two years of postdoctoral research at CMIS/CSIRO and the University of Melbourne before joining Deakin University in 2004. Professor Mak-Hau has served as a Chief Investigator on three ARC Discovery Projects and one ARC LIEF Project, and she has led multiple industry‑funded and Deakin‑supported research projects.
  
 interests:
   - Integer programming and matheuristics
