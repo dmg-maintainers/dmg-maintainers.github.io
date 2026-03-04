@@ -34,4 +34,4 @@ projects: []
 
 <!--more-->
 
-#![ ](Leoben.jpg) ![ ](Vienna.jpg)  
+![ ](Leoben.jpg) ![ ](Vienna.jpg)  
