@@ -1,0 +1,58 @@
+%We will highlight the name of the applicant.
+\RequirePackage{xstring}
+\newcommand{\firstinit}{}
+\newcommand{\firstname}{}
+\newcommand{\lastname}{}
+
+\ProcessOptions\relax
+
+\DeclareNameAlias{author}{family-given}
+
+% The command below adds the name of applicants to a list. 
+% The list is used to highlight the names of the applicants
+% in the bibliography.
+\def\@applicantList{}
+\newcommand{\addapplicant}[1]{%
+\StrSubstitute{#1}{ }{\bibnamedelima }[\name]
+\listeadd\@applicantList{\name}}
+\newcommand{\addapplicants}[1]{\forcsvlist{\addapplicant}{#1}}
+
+\renewbibmacro*{name:family}[4]{%
+    \usebibmacro{name:delim}{#3#1}%
+     \usebibmacro{name:hook}{#3#1}%
+    {\xifinlist{#1}{\@applicantList}{\bfseries }{}%
+     \ifdefvoid{#3}
+       {}
+       {\ifcapital
+          {\mkbibnameprefix{\MakeCapital{#3}}\isdot}
+          {\mkbibnameprefix{#3}\isdot}%
+        \ifprefchar{}{\bibnamedelimc}}%
+  \mkbibnamefamily{#1}\isdot}}%
+
+\renewbibmacro*{name:family-given}[4]{%
+  \ifuseprefix
+    {\usebibmacro{name:delim}{#3#1}%
+     \usebibmacro{name:hook}{#3#1}%
+     \ifdefvoid{#3}{}{%
+       \ifcapital
+         {\mkbibnameprefix{\MakeCapital{#3}}\isdot}
+         {\mkbibnameprefix{#3}\isdot}%
+       \ifprefchar{}{\bibnamedelimc}}%
+     \mkbibnamefamily{#1}\isdot
+     \ifdefvoid{#4}{}{\bibnamedelimd\mkbibnamesuffix{#4}\isdot}%
+     \ifdefvoid{#2}{}{\revsdnamepunct\bibnamedelimd\mkbibnamegiven{#2}\isdot}}
+    {\usebibmacro{name:delim}{#1}%
+     \usebibmacro{name:hook}{#1}%
+    {
+      \xifinlist{#1}{\@applicantList}{\bfseries }{}%
+     \mkbibnamefamily{#1}\isdot
+     \ifdefvoid{#4}{}{\bibnamedelimd\mkbibnamesuffix{#4}\isdot}%
+     \ifboolexpe{%
+       test {\ifdefvoid{#2}}
+       and
+       test {\ifdefvoid{#3}}}
+       {}
+       {\revsdnamepunct}%
+     \ifdefvoid{#2}{}{\bibnamedelimd\mkbibnamegiven{#2}\isdot}%
+     \ifdefvoid{#3}{}{\bibnamedelimd\mkbibnameprefix{#3}\isdot}}}}
+
