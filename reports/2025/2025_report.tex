@@ -1,0 +1,530 @@
+\documentclass[10pt,a5paper]{report}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[giveninits=true,backend=biber,sortcites=true,%
+uniquename=false,%
+sorting=nyt,style=ext-authoryear-comp,dashed=false,%
+maxnames=1000,doi=false,isbn=false,url=false,articlein=false,date=year]{biblatex}
+\usepackage{amsfonts}
+%\usepackage{mathscr}
+\usepackage{mathrsfs}
+
+\usepackage[margin=2cm]{geometry}
+
+\usepackage{titlesec}
+
+\usepackage{highlightAuthors}
+\bibliography{report.bib}
+\nocite{*}
+
+\addapplicants{%
+Bandara,%
+Beliakov,%
+Díaz Millán,%
+James,%
+Laird,%
+Pineda Villavicencio,%
+Ranaweera,%
+Ugon,%
+}
+
+\defbibcheck{year}{
+  \iffieldint{year}{\ifnumequal{\thefield{year}}{2025}{}{\skipentry}}{\skipentry}}
+
+\newcommand{\DMG}{$\mathbf{\mathbb{D}: \mathscr{M}\to G}$}
+
+
+\title{Annual Report}
+\author{} \date{2025}
+
+% This is necessary to eliminate some pandoc commands.
+\newcommand{\pandocbounded}[1]{#1}
+\begin{document}
+  \maketitle
+  \chapter*{Activities}
+
+  Below is a list of activities by the group, in chronological order.
+
+  \section*{Minicourse on Hodge Theory in Nonsmooth
+  Settings}
+  \addcontentsline{toc}{subsection}{Minicourse on Hodge
+  Theory in Nonsmooth Settings}
+
+  On 18, 20, 22nd August, \href{https://lashi.org}{Lashi Bandara} gave
+  an online minicourse at the Geometric Analysis and Related Fields
+  seminar, organised by
+  \href{https://people.iut.ac.ir/en/sajjadlakzian}{Sajjad Lakzian} at
+  Isfahan University of Technology. Recordings are available
+  \href{https://www.youtube.com/watch?v=wllJ2wRyldw&list=PLuKJ_JmLD0R8a_PKKLO_ISLIII97cLBce&ab_channel=Lashi\%27sMathsChannel}{here}.
+
+  \section*{2024 Yearbook}
+  \addcontentsline{toc}{subsection}{25 August 2025: 2024 Yearbook}
+
+  The 2024 Mathematics Yearbook came out in August. Congratulations to all the
+  students who contributed to it. A fantastic recognition of their hard
+  work. You can downlad it
+  \href{https://blogs.deakin.edu.au/maths/yearbook/}{here}.
+
+  \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../content/post/25-09-02-yearbook/featured.jpg}\end{figure}
+
+  \section*{Trill White attends Heidelberg forum}
+  \addcontentsline{toc}{subsection}{02 September 2025: Trill White
+  attends Heidelberg forum}
+
+  \href{../author/trill-white}{Trill White}  attended the \href{https://www.heidelberg-laureate-forum.org/}{12-th
+  Heidelberg forum} from the 14th to the 19th of September.
+
+  The HLF forum invites 200 selected students from mathematics and computer science across the world to meet with Fields, Turing, Abel and Nevanlinna award winners. Three students from Australian institutions attended, from Melbourne University, UNSW and Trill from Deakin, the only one coming from a non-Go8 university.
+
+  while at this meeting, she handed the 2024 Deakin Mathematics Yearbook to
+  Sarah MacLeod, Head of Young Researchers Relations.
+
+  \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../content/post/25-09-26-trillyearbook/featured.jpeg}\end{figure}
+
+  \section*{Brianna Laird attends AMSI Winter
+  School}
+  \addcontentsline{toc}{subsection}{Brianna Laird
+  attends AMSI Winter School}
+
+  Brianna Laird attended the
+  \href{https://ws.amsi.org.au/}{AMSI Winter School} from the first to the 12th of September.
+
+  The AMSI Winter School is a nation-wide initiative by AMSI to organise week-long courses to mathematics students across the country. It is primarily targeted at research students. Brianna was one of the first Deakin student for many years to attend.
+
+  \section*{Launch of VicGAP}
+  \addcontentsline{toc}{subsection}{Launch of VicGAP}
+
+  The inaugural seminar of the \href{https://vicgap.org}{Victorian GAP (Geometry, Analysis, and PDE)} network took place on 09/09/2025 at La Trobe University,
+  City Campus.
+
+  VicGAP is an initiative led by Lashi Bandara, who, together with Owen Dearicott (Latrobe) and Justin Forlano (Monash) to create a collaboration network for all Victorian mathematicians working in analysis, PDE and Geometry.
+
+  More at: \href{https://vicgap.org/post/25-09-20/}{https://vicgap.org/post/25-09-20/}
+
+   \section*{Guillermo gave a presentation at TU Berlin}
+  \addcontentsline{toc}{subsection}{Guillermo gave a presentation at TU Berlin}
+
+  \href{../authors/Guillermo-Pineda-Villavicencio}{Guillermo Pineda
+  Villavicencio} gave a seminar at TU Berlin on the 17th of September.
+
+  \textbf{Title:} Lower bound theorems on the face numbers of polytopes
+  with few vertices
+
+  \textbf{Abstract:} We study lower bound theorems for the number of
+  \(k\)-faces (\(1\le k\le d-2\)) of a \(d\)-dimensional polytope \(P\)
+  (or \emph{\(d\)-polytope}) with up to \(3d-1\) vertices. Earlier
+  results include the following: Xue (2021) established the case of
+  polytopes with at most \(2d\) vertices; Xue (2022) and
+  Pineda-Villavicencio and Yost (2022) independently settled the case of
+  \(2d+1\) vertices; and Pineda-Villavicencio, Tritama, and Yost (2024)
+  extended this to \(2d+2\) vertices.
+
+  We present a recent lower bound theorem covering \(d\)-polytopes with
+  up to \(3d-1\) vertices. If \(P\) has exactly \(d+2\) facets and at
+  least \(2d+\ell\) vertices, the lower bound is tight for certain
+  combinations of \(d\) and \(\ell\). When \(P\) has at least \(d+3\)
+  facets, the lower bound is always tight, with equality for some
+  \(1\le k\le d-2\) only when \(P\) has precisely \(d+3\) facets. These
+  results confirm a conjecture of Pineda-Villavicencio (2024).
+
+  We outline the main ideas and methods underlying the proof and
+  describe some minimisers for each number of vertices between \(d+2\)
+  and \(3d-1\).
+
+  We conclude with a discussion of what happens beyond \(3d-1\)
+  vertices---where the picture becomes more intricate.
+
+  This is joint work with Jie Wang.
+
+
+  \section*{Iman Shekarriz visits Krakow, Leoben and
+  Vienna}
+  \addcontentsline{toc}{subsection}{Iman Shekarriz
+  visits Krakow, Leoben and Vienna}
+
+  \href{../author/iman-shekarriz}{Iman Shekarriz} visited the Technical
+  University of Leoben from September 18th to 22nd. There, he met with
+  \href{http://imrich.at/}{Wilfried Imrich} to discuss the theoretical
+  advancement of soft happy colouring. Afterwards, they travelled
+  together to at AGH university, Krakow, Poland to attend
+  \href{https://www.10ccgt.agh.edu.pl/}{10CCGT}, a large gathering of
+  graph theorists from all over the world. He presented a talk titled
+  ``Soft Happy Colouring''. Upon returning to Austria, Iman stayed at
+  the Vienna University of Technology to visit
+  \href{https://svozil.github.io/publications/}{Karl Svozil} for some
+  days. There, they discussed quantum chromatic contextuality.
+
+  \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../content/post/25-10-17-imantrip/featured.jpg}\caption{Iman's collaboration mention by a speaker at the conference}\end{figure}
+
+  \section*{Julien visits the University of Western
+  Sydney}
+  \addcontentsline{toc}{subsection}{Julien visits the
+  University of Western Sydney}
+
+  \href{../author/julien-ugon}{Julien Ugon} was kindly invited by Mehdi
+  Tavakol at the University of Western Sydney to work on their joing
+  project. While there, Julien gave a seminar on the teaching approach
+  used in the school of IT at Deakin university, titled ``Rekindling
+  students' engagement in mathematics through co-constructive
+  practice''. The slides can be found
+  \href{https://julien-ugon.gitlab.io/UWS-Presentation/Teaching/Presentation.html}{here}.
+
+  \section*{AMSI Summer Research Scholarship
+  success}
+  \addcontentsline{toc}{subsection}{AMSI Summer
+  Research Scholarship success}
+
+  \href{../author/trill-white}{Trill White} and Hoa
+  My Huy Lim received
+  \href{https://srs.amsi.org.au/}{AMSI Summer Research Scholarships}.
+
+  Trill worked under the supervision of \href{../author/kelvin-li}{Kelvin Li} on her project ``Optimisation in BKZ: An analysis of
+  dynamic block size'' and Hoa worked under the supervision of Sergey Polyakovskiy on her project ``Just-in-Time Batch Scheduling
+  Subject to Batch Size and Packing Constraints''.
+
+  \section*{2025 ADR Prizes}
+  \addcontentsline{toc}{subsection}{2025 ADR Prizes}
+
+  Three mathematical students were awarded a 2025 ADR prize, to work on the following projects:
+
+  \begin{itemize}
+  
+  \item
+    \href{../author/brianna-laird}{Brianna Laird} under the supervision
+    of \href{../author/reinier-diaz-millan}{Reinier Díaz Millán} and
+    \href{../author/julien-ugon}{Julien Ugon} on ``Generalising the
+    Weber Problem via Bregman Divergences in Infinite Dimensional
+    Spaces''.
+  \item
+    \href{../author/kate-suraev}{Kate Suraev} under the supervision of
+    \href{../author/julien-ugon}{Julien Ugon} and
+    \href{../author/lashi-bandara}{Lashi Bandara} on ``Formal
+    Verification of Mathematical Proofs in Lean''.
+  \item
+    Bao Minh Tran, under the supervision of
+    \href{../author/gleb-beliakov}{Gleb Beliakov} and
+    \href{../author/simon-james}{Simon James} on ``Out-of-distribution
+    data fitting''.
+  \end{itemize}
+
+  Congratulations to our three students and we look forward to their
+  projects.
+
+  \section*{Reinier and Julien attend the Optimisation Days at UNSW}
+  \addcontentsline{toc}{subsection}{Reinier and Julien
+  attend the Optimisation Days at UNSW}
+
+  \href{../author/julien-ugon}{Julien Ugon} and
+  \href{../author/reinier-diaz-millan}{Reinier Diáz Millán} attended a
+  two days workshop on optimisation, the
+  \href{https://www.unsw.edu.au/science/our-schools/maths/our-research/optimisation/opt_days}{Optimisation
+  Days} at the university of New South Wales. Reinier's trip was kindly
+  supported by Vera Roshchina.
+
+  Reinier gave a presentation titled ``Frank--Wolfe algorithm for DC
+  optimisation problem''.
+
+  \section*{Lashi visits IIT-Madras, Sri
+  Jayawardenepura, Peradeniya and Kelaniya}
+  \addcontentsline{toc}{subsection}{13 November 2025: Lashi visits
+  IIT-Madras, Sri Jayawardenepura, Peradeniya and Kelaniya}
+
+  \href{../author/lashi-bandara}{Lashi Bandara} visited
+  \href{https://math.iitm.ac.in//innerfaculty.php?fname=Aprameyan\%20P}{Aprameyan
+  Parthasarathy} at \href{https://math.iitm.ac.in/}{IIT-Madras} on
+  invitation from 6th to 10th October.
+
+  In the IIT-Madras Maths Colloquium, he gave a talk titled ``Functional
+  calculus, garnished with a little geometry''.
+
+  IIT-Madras maintains a beautiful tradition of keeping a collection of
+  their colloquium talks hand-written by the speaker into a book.
+
+  \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../content/post/25-11-13-lashisouthasiatour/IITM-book.jpeg}\end{figure}
+
+  Together with B. Sivashankar, Aprameyan's PhD student, they discussed
+  and began to collaborate on a project on understanding the stability
+  of eigenvalues under rough metric convergence.
+
+  During his leave visiting extended family in Sri Lanka, Lashi was
+  invited by
+  \href{https://science.sjp.ac.lk/mat/dr-p-g-t-harshani-2}{Thanuja
+  Paragoda} from the \href{https://science.sjp.ac.lk/mat}{University of
+  Sri Jayawardenapura} to give a talk to their undergraduate students.
+  He gave a talk titled ``Crushing Orange Peels and Drawing Maps: the
+  story of Gaussian curvature'', organised by the
+  \href{https://science.sjp.ac.lk/mat/mathematics-society/}{Mathematics
+  Society} of USJ.
+
+  He was also invited by
+  \href{https://sci.pdn.ac.lk/maths/staff/Ashwini-Amarasinghe}{Ashwini
+  Amarasinghe} and
+  \href{https://sites.google.com/view/gayanajayasinghe/home}{Gayana
+  Jayasinghe} from the \href{https://pdn.ac.lk}{University of
+  Peradeniya} and to give talks to their undergraduate students.
+  Peradeniya has two departments of mathematics - one in the
+  \href{https://sci.pdn.ac.lk/maths}{Faculty of Science} and the other
+  in the \href{https://eng.pdn.ac.lk/maths/}{Faculty of Enginnering}. He
+  gave the same talk as for USJ for the Science Faculty students at
+  Peradeniya, who are focused more on pure mathematics, organised by the
+  \href{https://mathema.soc.pdn.ac.lk}{Mathematical Society} of
+  Peradeniya.
+
+  \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../content/post/25-11-13-lashisouthasiatour/Pera-poster.jpeg}\end{figure}
+
+  Lashi gave a chalkboard talk and he was very happy with the beautiful
+  boards!
+
+  \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../content/post/25-11-13-lashisouthasiatour/Pera-talk.jpeg}\end{figure}
+
+  For the Engineering faculty students, he gave a talk titled ``Chucking
+  matrices into functions: why, when and how?'', organised by the
+  \href{https://eng.pdn.ac.lk/maths/emsociety/}{Engineering Mathematics
+  Society}.
+
+  Lashi also gave an invited research colloquium talk at the
+  \href{https://science.kln.ac.lk/depts/maths/}{University of Kelaniya}
+  on invitation by
+  \href{https://science.kln.ac.lk/depts/maths/index.php/component/sppagebuilder/?view=page&id=53}{Shamon
+  Almeida}.
+
+  \section*{Gleb Beliakov among Australia's
+  top 250 researchers in 2026}
+  \addcontentsline{toc}{subsection}{Gleb Beliakov
+  among Australia's top 250 researchers in 2026}
+
+  \href{../author/gleb-beliakov}{Gleb Beliakov} was named in the
+  Australian's
+  \href{https://www.theaustralian.com.au/special-reports/research-magazine/the-2026-research-magazine-showcases-the-benefits-of-research/news-story/cd04714e9c76e43bbcd32ad0288e7470}{2026
+  Research Magazine} as a top researcher in Engineering and Computer
+  Science, in the field of Fuzzy Systems. Congratulations to Gleb for
+  this tremendous achievement.
+
+  \section*{New book by Gleb Beliakov and Simon
+  James}
+  \addcontentsline{toc}{subsection}{26 November 2025: New book by Gleb
+  Beliakov and Simon James}
+
+  \href{../author/gleb-beliakov}{Gleb} and
+  \href{../author/simon-james}{Simon}'s new book,
+  \href{https://doi.org/10.1007/978-3-031-97070-2}{Choquet Capacities
+  and Fuzzy Integrals}, co-authored with Jian-Zhang Wu, has just
+  appeared.
+
+  \section*{Simon and Julien attend Meanjin Delta}
+  \addcontentsline{toc}{subsection}{Simon and Julien
+  attend Meanjin Delta}
+
+  \href{../author/simon-james}{Simon James} and
+  \href{../author/julien-ugon}{Julien Ugon} attended the
+  \href{https://fyimaths.weebly.com/meanjin-delta-2025.html}{Meanjin
+  Delta conference} on the 25 and 26th of November. Julien presented a
+  talk titled ``Co-constructive mastery-based learning in mathematics''
+  and Simon's presentation was titled ``Five years of the mathematics
+  yearbook: a side quest in co- constructive learning''. We acknowledge
+  funding from the faculty of SEBE that enabled us to attend this
+  conference.
+
+  \section*{DMG Group attended the AustMS meeting}
+  \addcontentsline{toc}{subsection}{13 December 2025: DMG Group attended
+  the AustMS meeting}
+
+  This week a delegation of six staff members, two PhD students and six
+  undergraduate students from the DMG attended the
+  \href{https://www.austms2025.org.au}{AustMS meeting} at Latrobe
+  University. We gave the following talks:
+
+  \begin{itemize}
+  \item
+    \href{../../author/lashi-bandara}{Lashi Bandara} -- \emph{The space
+    of rough Riemannian metrics}; \emph{Harmonic analysis and boundary
+    trace for first-order elliptic operators over vector bundles} and
+    \emph{Cutting and gluing via matching boundary conditions}.
+  \item
+    \href{../../author/reinier-diaz-millan}{Reinier Díaz Millán} --
+    \emph{Frank-Wolfe algorithm for star-convex functions}.
+  \item
+    \href{../../author/brianna-laird}{Brianna Laird} -- \emph{A Steiner
+    Tree Based Genetic Algorithm for Multi-layered
+    Location-Allocation-Routing Problems}.
+  \item
+    \href{../../author/guillermo-pineda-villavicencio}{Guillermo Pineda
+    Villavicencio} - \emph{Colouring of graphs of polytopes}.
+  \item
+    \href{../../author/iman-shekarriz}{Iman Shekarriz} -
+    \emph{Metaheuristic methods for Soft Happy Colouring}.
+  \item
+    \href{../../author/julien-ugon}{Julien Ugon} --
+    \emph{Proximal-point-like algorithms for abstract convex
+    minimisation problems}.
+  \end{itemize}
+
+  The ever ubiquitous \href{../../author/lashi-bandara}{Lashi} also
+  participate in the debate ``AI will destroy mathematics'\,', which was
+  both entertaining and illuminating, and
+  \href{../../author/lashi-bandara}{Lashi} and
+  \href{../../author/trill-white}{Trill White} each presented art work
+  at the mathematical art exhibition.
+
+  \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../content/post/25-12-13-AustMS/featured.jpg}\end{figure}
+
+  \chapter*{Events}
+
+  \section*{08 August 2025: DUMG Talk by A/Prof Nadia Sukhorukova:
+  Mathematical Optimisation behind Deep Learning}
+  \addcontentsline{toc}{subsection}{08 August 2025: DUMG Talk by A/Prof
+  Nadia Sukhorukova: Mathematical Optimisation behind Deep Learning}
+
+  Join the inagural Deakin Undergraduate Maths Group seminar by A/Prof
+  Nadia Sukhorukova from Swinburne University.
+
+  Title: ``Mathematical Optimisation behind Deep Learning''
+
+  \section*{22 August 2025: Double DMG Seminar by Iman Shekkariz and
+  Reinier Díaz Millán}
+  \addcontentsline{toc}{subsection}{22 August 2025: Double DMG Seminar
+  by Iman Shekkariz and Reinier Díaz Millán}
+
+  \textbf{Title:} Soft Happy Colouring and Community
+
+  A talk by Iman Shekkariz
+
+  \textbf{Abstract:} For a coloured graph G and 0 ≤ ρ ≤ 1, a vertex v is
+  ρhappy if at least ρ deg(v) of its neighbours share its colour. The
+  soft happy colouring problem seeks a colouring σ that extends a given
+  precolouring and maximises the number of ρ-happy vertices {[}3{]}.
+  This NP-hard problem is closely linked to community detection in
+  graphs. For example, for a graph in the stochastic block model (SBM)
+  and for suitable ρ, with high probability, complete soft happy
+  colourings can be achieved by the planted community structure {[}1{]}.
+  Moreover, for 0 ≤ ρ1 \textless{} ρ2 ≤ 1, complete ρ2 -happy colourings
+  achieve higher detection accuracy than complete ρ1 -happy colourings,
+  and when ρ surpasses a critical threshold, it is unlikely to find a
+  complete ρ-happy colouring with near-equal class sizes {[}2{]}.
+  Finally, we survey existing algorithms and propose novel heuristic,
+  local search, evolutionary, metaheuristic, and matheuristic approaches
+  that enhance solution quality for soft happy colouring.
+
+  References
+
+  [1] Mohammad H. Shekarriz, Dhananjay Thiruvady, Asef
+  Nazari, and Rhyd Lewis. Soft happy colourings and community structure
+  of networks. Computers \& Operations Research, 174:106893, 2025.
+
+  [2] Mohammad H. Shekarriz, Dhananjay Thiruvady, Asef Nazari, and
+  Wilfried Imrich. Local search improvements for soft happy colouring.
+  Preprint available on ArXiv: 2506.19284, 2025 1
+
+  [3] Peng Zhang and
+  Angsheng Li. Algorithmic aspects of homophyly of networks. Theoretical
+  Computer Science, 593:117--131, 2015.
+
+  \textbf{Title:} Faces of convex sets and its relation with the
+  generalised interior
+
+  A talk by Reinier Diaz Millan
+
+  \textbf{Abstract:} This presentation explores the relationship between
+  the facial structure of convex sets and various notions of generalised
+  interiors, particularly in general vector spaces. We review the
+  fundamental concepts of faces and minimal faces, with a central focus
+  on the intrinsic core (icr), a generalisation of the relative interior
+  that is characterised by its connection to minimal faces. A key result
+  is the decomposition of any convex set into a disjoint union of the
+  intrinsic cores of its faces. Building on this, we introduce the face
+  relative interior (fri), a new concept of interiority for convex sets
+  in topological vector spaces. We establish its fundamental properties
+  and its place within the hierarchy of interiority notions. The talk
+  also covers conditions that guarantee the face relative interior is
+  nonempty. Ultimately, this work provides a deeper understanding of the
+  geometric structure of convex sets in infinite-dimensional settings by
+  linking their facial geometry to these generalised interior points.
+
+  \section*{05 September 2025: DMG Talk by Prof Alexander Kruger}
+  \addcontentsline{toc}{subsection}{05 September 2025: DUMG Talk by Prof
+  Alexander Kruger}
+
+    \textbf{Title:} About the Extremal Principle: From Convex Analysis to Nonsmooth Analysis (Geometric Considerations)
+
+    \textbf{By:} Prof Alexander Kruger, Faculty of Mathematics and Statistics, Ton Duc Thang University, Ho Chi Minh City, Vietnam
+
+    \textbf{Abstract:} Since the extremal principle was introduced in 1980, it has proved to be one of the key tools in nonsmooth optimization and variational analysis, serving as a substitution for the classical convex separation theorem when the convexity assumptions are not satisfied. Several extensions of the extremality property of collections of sets have been introduced as well as several extensions of the extremal principle.
+
+    In this talk, I am going to present and discuss extremality, local extremality, stationarity and approximate stationarity properties of collections of sets and the corresponding (extended) extremal principle.
+
+    References
+
+    Kruger, A.Y., Mordukhovich, B.S.: Extremal points and the Euler equation in nonsmooth optimization problems. Dokl. Akad. Nauk BSSR 24(8), 684–687 (1980)
+
+    Kruger, A.Y.: Weak stationarity: eliminating the gap between necessary and sufficient conditions. Optimization 53(2), 147–164 (2004)
+
+    Bui, H.T., Kruger A.Y.: About extensions of the extremal principle. Vietnam J. Math. 46(2), 215–242 (2018)
+
+    Bui, H.T., Kruger A.Y.: Extremality, stationarity and generalized separation of collections of sets. J. Optimization Theory Appl. 182(1), 211–264 (2019)
+
+    Cuong, N.D., Kruger, A.Y., Thao, N.H.: Extremality of families of sets. Optimization 73(12), 3593–3607 (2024)
+
+    Cuong, N.D., Kruger, A.Y.: Generalized separation of collections of sets. arXiv: 2412.05336
+
+  \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../content/event/25-09-05-kruger/featured.jpg}\end{figure}
+
+  \section*{09 September 2025: DUMG Talk by Prof Alexander Kruger}
+  \addcontentsline{toc}{subsection}{09 September 2025: DUMG Talk by Prof
+  Alexander Kruger}
+
+    \textbf{Title:} From Classical to Nonsmooth Analysis: Differentiating Nondifferentiable Functions
+
+    \textbf{By:} Prof Alexander Kruger, Faculty of Mathematics and Statistics, Ton Duc Thang University, Ho Chi Minh City, Vietnam
+
+    \textbf{Abstract:}
+      I am going to trace the development of the idea of derivative from classical through convex to nonsmooth analysis. The emphasis is going to be on calculus (constant multiple and sum rules) and applications of differentiation to optimality conditions (Fermat theorem and multiplier rules).
+
+      Conventional and strict derivatives (gradients) and several types of subdifferentials and normal cones will be discussed.
+
+      No prior knowledge of convex or nonsmooth analysis is expected.
+
+      References
+
+      Rockafellar, R. T., Wets, R. J.-B. Variational Analysis, Springer-Verlag, Berlin, 1998
+
+      Mordukhovich, B. S. Variational Analysis and Generalized Differentiation, Springer-Verlag, Berlin, 2006
+
+      Penot, J.-P. Calculus Without Derivatives, Springer-Verlag, New York, 2013
+
+      Kruger, A. Y. Properties of generalized differentials. Siberian Math. J. 26 (1985), 822–832
+
+      Kruger, A. Y. On Fréchet subdifferentials. J. Math. Sci. 116, 3 (2003), 3325–3358 
+
+
+  \section*{10 November 2025: DUMG Talk by Dr Reinier Díaz Millán}
+  \addcontentsline{toc}{subsection}{10 November 2025: DUMG Talk by Dr
+  Reinier Díaz Millán}
+
+  Dr Reinier did his PhD in Optimisation from the Federal University of
+  Goiás, Brazil and his talk is on ``The World's Most Famous Theorem'':
+  Hidden within the fabric of mathematics lies a result so universal
+  that it appears across cultures, sciences, and even art. Its countless
+  proofs span from ancient scrolls to presidential sketches, yet its
+  essence remains as captivating as ever. This talk will not only
+  revisit the mystery behind it but also reveal why, after thousands of
+  years, it continues to challenge, inspire, and surprise.
+
+  \section*{18 November 2025: A day of \ldots{} Analysis \& Geometry}
+  \addcontentsline{toc}{subsection}{18 November 2025: A day of \ldots{}
+  Analysis \& Geometry}
+
+  \href{https://tinyurl.com/AnalysisGeometryDeakin}{A day of \ldots{}
+  Analysis \& Geometry} will take place at Deakin Waterfront on 8th
+  December 2026. It has been designated as a
+  \href{https://austms2025.org.au/satellites}{Satellite Conference} to
+  the \href{https://www.austms2025.org.au}{Australian Mathematics
+  Society 2026 Annual Meeting}.
+
+  \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../content/event/25-11-18-agd/featured.jpg}\end{figure}
+
+  \include{authors.tex}
+
+
+  \printbibliography[check=year,type=article,heading=subbibnumbered,title={Refereed Articles}]
+  \printbibliography[type=unpublished,heading=subbibnumbered,title={Preprints}]
+\end{document}
