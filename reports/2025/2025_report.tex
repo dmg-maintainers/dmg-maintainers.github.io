@@ -10,8 +10,16 @@ maxnames=1000,doi=false,isbn=false,url=false,articlein=false,date=year]{biblatex
 \usepackage{mathrsfs}
 \usepackage{caption}
 
+
+%\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+%  {-3.25ex\@plus -1ex \@minus -.2ex}% beforeskip
+%  {-1ex \@plus -1ex}% afterskip
+%  {\normalfont\normalsize\bfseries}}
+%\makeatother
+
+
 \usepackage{scrlayer-scrpage}
-\chead{\DMG{} Annual Report 2025}
+\chead{\DMG{}\hfill Annual Report 2025}
 
 \usepackage{fontspec}
 \setmainfont{Latin Modern Math}
@@ -19,9 +27,12 @@ maxnames=1000,doi=false,isbn=false,url=false,articlein=false,date=year]{biblatex
 %\setmainfont{LMRoman10}
 %
 
+
+
 %\usepackage[margin=2cm]{geometry}
 
 \usepackage{wallpaper}
+
 
 
 \usepackage{highlightAuthors}
@@ -45,6 +56,10 @@ Ugon,%
 
 \newcommand{\DMG}{$\mathbf{\mathbb{D}: \mathscr{M}\to G}$}
 
+\hypersetup{
+    colorlinks,%
+}
+
 
 \title{Annual Report}
 \author{} \date{2025}
@@ -54,9 +69,13 @@ Ugon,%
 \newcommand{\pandocbounded}[1]{#1}
 \begin{document}
   \begin{titlepage}
-  \includepdf{Annual_Report.pdf}
+  \includepdf[noautoscale=true, height=\paperheight]{Annual_Report.pdf}
   \end{titlepage}
+
   \tableofcontents
+
+\parindent0cm
+\setlength{\parskip}{0.5\baselineskip}
 
 
   \chapter*{Activities}
@@ -90,7 +109,7 @@ Ugon,%
   \addcontentsline{toc}{section}{02 September 2025: Trill White
   attends Heidelberg forum}
 
-  \href{../author/trill-white}{Trill White}  attended the \href{https://www.heidelberg-laureate-forum.org/}{12-th
+  \href{https://d-m-g.org/author/trill-white}{Trill White}  attended the \href{https://www.heidelberg-laureate-forum.org/}{12-th
   Heidelberg forum} from the 14th to the 19th of September.
 
   The HLF forum invites 200 selected students from mathematics and computer science across the world to meet with Fields, Turing, Abel and Nevanlinna award winners. Three students from Australian institutions attended, from Melbourne University, UNSW and Trill from Deakin, the only one coming from a non-Go8 university.
@@ -161,7 +180,7 @@ Ugon,%
   \addcontentsline{toc}{section}{Iman Shekarriz
   visits Krakow, Leoben and Vienna}
 
-  \href{../author/iman-shekarriz}{Iman Shekarriz} visited the Technical
+  \href{https://d-m-g.org/author/iman-shekarriz}{Iman Shekarriz} visited the Technical
   University of Leoben from September 18th to 22nd. There, he met with
   \href{http://imrich.at/}{Wilfried Imrich} to discuss the theoretical
   advancement of soft happy colouring. Afterwards, they travelled
@@ -180,7 +199,7 @@ Ugon,%
   \addcontentsline{toc}{section}{Julien visits the
   University of Western Sydney}
 
-  \href{../author/julien-ugon}{Julien Ugon} was kindly invited by Mehdi
+  \href{https://d-m-g.org/author/julien-ugon}{Julien Ugon} was kindly invited by Mehdi
   Tavakol at the University of Western Sydney to work on their joing
   project. While there, Julien gave a seminar on the teaching approach
   used in the school of IT at Deakin university, titled ``Rekindling
@@ -193,11 +212,11 @@ Ugon,%
   \addcontentsline{toc}{section}{AMSI Summer
   Research Scholarship success}
 
-  \href{../author/trill-white}{Trill White} and Hoa
+  \href{https://d-m-g.org/author/trill-white}{Trill White} and Hoa
   My Huy Lim received
   \href{https://srs.amsi.org.au/}{AMSI Summer Research Scholarships}.
 
-  Trill worked under the supervision of \href{../author/kelvin-li}{Kelvin Li} on her project ``Optimisation in BKZ: An analysis of
+  Trill worked under the supervision of \href{https://d-m-g.org/author/kelvin-li}{Kelvin Li} on her project ``Optimisation in BKZ: An analysis of
   dynamic block size'' and Hoa worked under the supervision of Sergey Polyakovskiy on her project ``Just-in-Time Batch Scheduling
   Subject to Batch Size and Packing Constraints''.
 
@@ -209,20 +228,20 @@ Ugon,%
   \begin{itemize}
   
   \item
-    \href{../author/brianna-laird}{Brianna Laird} under the supervision
-    of \href{../author/reinier-diaz-millan}{Reinier Díaz Millán} and
-    \href{../author/julien-ugon}{Julien Ugon} on ``Generalising the
+    \href{https://d-m-g.org/author/brianna-laird}{Brianna Laird} under the supervision
+    of \href{https://d-m-g.org/author/reinier-diaz-millan}{Reinier Díaz Millán} and
+    \href{https://d-m-g.org/author/julien-ugon}{Julien Ugon} on ``Generalising the
     Weber Problem via Bregman Divergences in Infinite Dimensional
     Spaces''.
   \item
-    \href{../author/kate-suraev}{Kate Suraev} under the supervision of
-    \href{../author/julien-ugon}{Julien Ugon} and
-    \href{../author/lashi-bandara}{Lashi Bandara} on ``Formal
+    \href{https://d-m-g.org/author/kate-suraev}{Kate Suraev} under the supervision of
+    \href{https://d-m-g.org/author/julien-ugon}{Julien Ugon} and
+    \href{https://d-m-g.org/author/lashi-bandara}{Lashi Bandara} on ``Formal
     Verification of Mathematical Proofs in Lean''.
   \item
     Bao Minh Tran, under the supervision of
-    \href{../author/gleb-beliakov}{Gleb Beliakov} and
-    \href{../author/simon-james}{Simon James} on ``Out-of-distribution
+    \href{https://d-m-g.org/author/gleb-beliakov}{Gleb Beliakov} and
+    \href{https://d-m-g.org/author/simon-james}{Simon James} on ``Out-of-distribution
     data fitting''.
   \end{itemize}
 
@@ -233,8 +252,8 @@ Ugon,%
   \addcontentsline{toc}{section}{Reinier and Julien
   attend the Optimisation Days at UNSW}
 
-  \href{../author/julien-ugon}{Julien Ugon} and
-  \href{../author/reinier-diaz-millan}{Reinier Diáz Millán} attended a
+  \href{https://d-m-g.org/author/julien-ugon}{Julien Ugon} and
+  \href{https://d-m-g.org/author/reinier-diaz-millan}{Reinier Diáz Millán} attended a
   two days workshop on optimisation, the
   \href{https://www.unsw.edu.au/science/our-schools/maths/our-research/optimisation/opt_days}{Optimisation
   Days} at the university of New South Wales. Reinier's trip was kindly
@@ -248,7 +267,7 @@ Ugon,%
   \addcontentsline{toc}{section}{13 November 2025: Lashi visits
   IIT-Madras, Sri Jayawardenepura, Peradeniya and Kelaniya}
 
-  \href{../author/lashi-bandara}{Lashi Bandara} visited
+  \href{https://d-m-g.org/author/lashi-bandara}{Lashi Bandara} visited
   \href{https://math.iitm.ac.in//innerfaculty.php?fname=Aprameyan\%20P}{Aprameyan
   Parthasarathy} at \href{https://math.iitm.ac.in/}{IIT-Madras} on
   invitation from 6th to 10th October.
@@ -312,7 +331,7 @@ Ugon,%
   \addcontentsline{toc}{section}{Gleb Beliakov
   among Australia's top 250 researchers in 2026}
 
-  \href{../author/gleb-beliakov}{Gleb Beliakov} was named in the
+  \href{https://d-m-g.org/author/gleb-beliakov}{Gleb Beliakov} was named in the
   Australian's
   \href{https://www.theaustralian.com.au/special-reports/research-magazine/the-2026-research-magazine-showcases-the-benefits-of-research/news-story/cd04714e9c76e43bbcd32ad0288e7470}{2026
   Research Magazine} as a top researcher in Engineering and Computer
@@ -324,8 +343,8 @@ Ugon,%
   \addcontentsline{toc}{section}{26 November 2025: New book by Gleb
   Beliakov and Simon James}
 
-  \href{../author/gleb-beliakov}{Gleb} and
-  \href{../author/simon-james}{Simon}'s new book,
+  \href{https://d-m-g.org/author/gleb-beliakov}{Gleb} and
+  \href{https://d-m-g.org/author/simon-james}{Simon}'s new book,
   \href{https://doi.org/10.1007/978-3-031-97070-2}{Choquet Capacities
   and Fuzzy Integrals}, co-authored with Jian-Zhang Wu, has just
   appeared.
@@ -334,8 +353,8 @@ Ugon,%
   \addcontentsline{toc}{section}{Simon and Julien
   attend Meanjin Delta}
 
-  \href{../author/simon-james}{Simon James} and
-  \href{../author/julien-ugon}{Julien Ugon} attended the
+  \href{https://d-m-g.org/author/simon-james}{Simon James} and
+  \href{https://d-m-g.org/author/julien-ugon}{Julien Ugon} attended the
   \href{https://fyimaths.weebly.com/meanjin-delta-2025.html}{Meanjin
   Delta conference} on the 25 and 26th of November. Julien presented a
   talk titled ``Co-constructive mastery-based learning in mathematics''
@@ -355,34 +374,34 @@ Ugon,%
 
   \begin{itemize}
   \item
-    \href{../../author/lashi-bandara}{Lashi Bandara} -- \emph{The space
+    \href{https://d-m-g.org/author/lashi-bandara}{Lashi Bandara} -- \emph{The space
     of rough Riemannian metrics}; \emph{Harmonic analysis and boundary
     trace for first-order elliptic operators over vector bundles} and
     \emph{Cutting and gluing via matching boundary conditions}.
   \item
-    \href{../../author/reinier-diaz-millan}{Reinier Díaz Millán} --
+    \href{https://d-m-g.org/author/reinier-diaz-millan}{Reinier Díaz Millán} --
     \emph{Frank-Wolfe algorithm for star-convex functions}.
   \item
-    \href{../../author/brianna-laird}{Brianna Laird} -- \emph{A Steiner
+    \href{https://d-m-g.org/author/brianna-laird}{Brianna Laird} -- \emph{A Steiner
     Tree Based Genetic Algorithm for Multi-layered
     Location-Allocation-Routing Problems}.
   \item
-    \href{../../author/guillermo-pineda-villavicencio}{Guillermo Pineda
+    \href{https://d-m-g.org/author/guillermo-pineda-villavicencio}{Guillermo Pineda
     Villavicencio} - \emph{Colouring of graphs of polytopes}.
   \item
-    \href{../../author/iman-shekarriz}{Iman Shekarriz} -
+    \href{https://d-m-g.org/author/iman-shekarriz}{Iman Shekarriz} -
     \emph{Metaheuristic methods for Soft Happy Colouring}.
   \item
-    \href{../../author/julien-ugon}{Julien Ugon} --
+    \href{https://d-m-g.org/author/julien-ugon}{Julien Ugon} --
     \emph{Proximal-point-like algorithms for abstract convex
     minimisation problems}.
   \end{itemize}
 
-  The ever ubiquitous \href{../../author/lashi-bandara}{Lashi} also
+  The ever ubiquitous \href{https://d-m-g.org/author/lashi-bandara}{Lashi} also
   participate in the debate ``AI will destroy mathematics'\,', which was
   both entertaining and illuminating, and
-  \href{../../author/lashi-bandara}{Lashi} and
-  \href{../../author/trill-white}{Trill White} each presented art work
+  \href{https://d-m-g.org/author/lashi-bandara}{Lashi} and
+  \href{https://d-m-g.org/author/trill-white}{Trill White} each presented art work
   at the mathematical art exhibition.
 
   \begin{figure}\centering\includegraphics[width=1.0\linewidth,height=\textheight,keepaspectratio]{../../content/post/25-12-13-AustMS/featured.jpg}\caption*{A group of researchers and students attending AustMS 2025}\end{figure}
