@@ -56,18 +56,20 @@ Ugon,%
 
 \newcommand{\DMG}{$\mathbf{\mathbb{D}: \mathscr{M}\to G}$}
 
-\hypersetup{ 
-	colorlinks,%
-	linkcolor = {blue}, 
-	menucolor = {blue},
-	urlcolor = {urlcolors},
-}
-
-\definecolor{titlecolor}{RGB}{199,66,152}
+%\definecolor{titlecolor}{RGB}{199,66,152}
+\definecolor{titlecolor}{RGB}{40, 67, 135}
 \definecolor{urlcolors}{RGB}{185,19,126}
 
 \addtokomafont{chapter}{\color{titlecolor}}
 \addtokomafont{section}{\color{titlecolor}}
+
+\hypersetup{ 
+	colorlinks,%
+	linkcolor = {urlcolors}, 
+	menucolor = {urlcolors},
+	urlcolor = {urlcolors},
+}
+
 
 
 \title{Annual Report}
@@ -81,13 +83,20 @@ Ugon,%
   \includepdf[noautoscale=true, height=\paperheight]{Annual_Report.pdf}
   \end{titlepage}
 
+\clearpage\shipout\null
+
+{
   \tableofcontents
+\thispagestyle{empty}
+}
 
 \parindent0cm
 \setlength{\parskip}{0.5\baselineskip}
 
 
+
   \chapter*{Activities}
+\setcounter{page}{1} 
   \addcontentsline{toc}{chapter}{Activities}
 
   %Below is a list of activities by the group, in chronological order.
@@ -579,4 +588,8 @@ The talk was   titled: ``Mathematical Optimisation behind Deep Learning''
 
   \printbibliography[check=year,type=article,heading=subbibliography,title={Refereed Articles}]
   \printbibliography[type=unpublished,heading=subbibliography,title={Preprints}]
+
+
+
+\clearpage\shipout\null
 \end{document}
