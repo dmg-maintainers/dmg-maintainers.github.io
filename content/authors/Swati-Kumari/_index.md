@@ -21,9 +21,9 @@ organizations:
 #bio: 
 
 interests:
-#  - READING BOOK
-#  - TRAVELLING
-#  - DANCING
+  - Post-Quantum Cryptography and Future-Proof Security
+  - Secure and Intelligent IoT Systems
+  - Quantum-Enhanced Machine Learning and Decentralized Security
 
 education:
   courses:
