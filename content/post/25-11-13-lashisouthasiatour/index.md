@@ -62,5 +62,3 @@ For the Engineering faculty students, he gave a talk titled "Chucking matrices i
 ![](Pera-Eng-poster.jpeg) ![](Pera-Eng-talk.jpeg)
 
 Lashi also gave an invited research colloquium talk at the [University of Kelaniya](https://science.kln.ac.lk/depts/maths/) on invitation by [Shamon Almeida](https://science.kln.ac.lk/depts/maths/index.php/component/sppagebuilder/?view=page&id=53).
-
-![](Kelaniya-talk.jpeg)
