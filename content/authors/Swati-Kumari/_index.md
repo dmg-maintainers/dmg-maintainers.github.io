@@ -27,7 +27,8 @@ interests:
 
 education:
   courses:
-    - PhD in Computer Science and Engineering. Title - “Post-Quantum Cryptography based Improved Security Mechanism for Resource-Constrained IoT devices”
+    - course: PhD in Computer Science and Engineering.
+      title: “Post-Quantum Cryptography based Improved Security Mechanism for Resource-Constrained IoT devices”
       institution:  Thapar Institute of Engineering & Technology, Patiala, Punjab INDIA.
       year: 2022
     - course: MTech in Computer Science & Engineering
