@@ -78,6 +78,9 @@ He gave a talk on his recent work on boundary value problems and spent time in d
 These discussions ranged from discussions on boundary value problems to recent work on Hodge-decompositions for non-smooth metrics as well as the study of the set of all non-smooth metrics.
 They have begun preliminary analysis for a project on inverse problems.
 
+Lashi was also made an editor for the journal [Applied Analysis and Clifford Algebras](https://link.springer.com/journal/6), a journal under Springer-Nature.
+
+![](AACA.png)
 
 On his return home, Lashi enjoyed working on some of the maths that was discussed with his collaborators in the tropical garden, called the [Orchard](https://dohahamadairport.com/relax/orchard), at Doha Airport!
 ![](Doha1.jpeg)
