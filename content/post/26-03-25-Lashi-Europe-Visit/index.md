@@ -52,6 +52,9 @@ Lashi also gave a [talk](https://math-events.uni-bonn.de/event/1028/) in the [Gl
 
 ![](Bonn1.jpeg)
 
+He also had the opportunity to interact with [Günter Ziegler](https://www.mi.fu-berlin.de/math/groups/discgeom/ziegler/index.html), Professor of Discrete Geometry and Combinatorial Topology who has recently reelected as the [President of  Freie Universität Berlin](https://www.fu-berlin.de/en/universitaet/geschichte/persoenlichkeiten/praesidenten/ziegler/index.html).
+![](Gunter.jpeg) 
+
 
 Lashi visited [Magnus Goffeng](https://sites.google.com/view/magnus-goffeng/) at the [University of Lund](https://www.lunduniversity.lu.se/).  He delivered a talk in the Partial Differential Equations seminar and he was also invited to speak in the Pedagogical Colloquium, where he gave a talk titled [Co-constructive mastery based learning in mathematics](https://calendar.prodwebb8.lu.se/evenemang/co-constructive-mastery-based-learning-mathematics). 
 His discussions with Magnus during his one-week visit led to a new project which they have begun to pursue. 
