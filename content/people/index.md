@@ -19,7 +19,8 @@ sections:
           - Current Visitors
           - Alumni
           - Past Visitors
-          - Admin
+          - Past Students
+#          - Admin
       sort_by: Params.last_name
       sort_ascending: true
     design:
