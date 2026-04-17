@@ -64,6 +64,7 @@ slides: ""
 projects: []
 ---
 
+In this session, [Dr Melissa Lee](https://melissamaths.wordpress.com/) from [Monash University](https://www.monash.edu/) who is also the Computation Lead in the [ARC Centre of Excellence in Mathematics for Quantum Era Security and Trust] (https://mathquest.edu.au/), will deliver the following talk!
 
 **Title:**
 Taming the Monster
