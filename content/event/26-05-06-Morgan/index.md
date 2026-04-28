@@ -13,7 +13,7 @@ date_end: '2026-05-07T11:00:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-04-28T00:00:00Z'
+publishDate: '2026-05-01T00:00:00Z'
 
 authors: [Kerri Morgan]
 tags: [theta graphs, DMG]
