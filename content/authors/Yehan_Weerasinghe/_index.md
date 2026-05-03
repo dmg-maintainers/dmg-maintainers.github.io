@@ -1,6 +1,6 @@
 ---
 # Display name
-title: YEHAN WEERASINGHE
+title: Yehan Weerasinghe
 
 # Full Name (for SEO)
 first_name: YEHAN DINETH
