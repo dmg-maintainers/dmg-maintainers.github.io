@@ -8,8 +8,8 @@ abstract: 'Please join us for a DMG Mathematics Seminar on Teams: the teams link
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-05-06T10:00:00'
-date_end: '2026-05-07T11:00:00'
+date: '2026-05-20T10:00:00'
+date_end: '2026-05-20T11:00:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
