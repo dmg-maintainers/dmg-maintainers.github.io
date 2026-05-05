@@ -60,7 +60,7 @@ projects:
 
 **Title**: Why I Love Theta Graphs.
 
-**By**: Dr Kerri Morgan, School of Science, RMIT.
+**By**: Dr [Kerri Morgan](https://www.rmit.edu.au/profiles/m/kerri-morgan), School of Science, RMIT.
 
 **Abstract**: There are many interesting graphs. Cayley graphs have beautiful symmetries and connections with groups. The Petersen Graph has proved to be a counterexample for several past conjectures. However, my favourite graphs are Theta Graphs.
 
@@ -71,6 +71,6 @@ In this talk, I present some cases where Theta Graphs (and some of their close r
 The roots of the chromatic polynomial are algebraic integers. Cameron, et. al conjectured that if α was a chromatic root, there exists a natural number n such that α + n is a chromatic root. If this conjecture holds, an interesting question is what is the relationship (if any) between a graph with chromatic root α and a graph with chromatic root α + n? More generally, is there a connection between the structural properties of the graphs and the algebraic properties of the chromatic polynomials of the graphs. Theta graphs provide some insights into this question.
 
 
-**Bio**: Kerri Morgan is a Senior Lecturer in mathematics at RMIT University, specialising in combinatorics and discrete mathematics. Her research interests include graph theory and its applications, and the connections between structural properties of networks and the algebraic properties of the related graph polynomials
+**Bio**: [Kerri Morgan](https://www.rmit.edu.au/profiles/m/kerri-morgan) is a Senior Lecturer in mathematics at RMIT University, specialising in combinatorics and discrete mathematics. Her research interests include graph theory and its applications, and the connections between structural properties of networks and the algebraic properties of the related graph polynomials
 
 
