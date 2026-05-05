@@ -47,7 +47,7 @@ image:
 url_slides:
 url_code:
 #url_pdf: '/flyers/DUMG/DUMG_Kruger_2025.pdf'
-url_video:
+url_video: 'https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=7b7a3015-e61f-477a-a71a-b44100064733'
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -64,6 +64,8 @@ slides: ""
 projects: []
 ---
 
+
+
 In this session, [Dr Melissa Lee](https://melissamaths.wordpress.com/) from [Monash University](https://www.monash.edu/) who is also the Computation Lead in the [ARC Centre of Excellence in Mathematics for Quantum Era Security and Trust] (https://mathquest.edu.au/), will deliver the following talk!
 
 **Title:**
@@ -71,8 +73,8 @@ Taming the Monster
 
 **Abstract:** Group theory, the study of symmetry, is fundamental to understanding our universe. The building blocks of finite groups (of symmetries) are called "simple groups", and understanding them means that we understand a lot about finite groups in general.  In this talk, I will discuss the Monster group, a very large simple group that has captured the imagination of many mathematicians since its discovery in the 1980s. I will also tell you about some recent work with colleagues Heiko Dietrich, Tomasz Popiel and Anthony Pisani on how we managed to tame the Monster by understanding its maximal subgroups.
 
-**ZOOM:**
+**Video Recording**
 
-Url: https://deakin.zoom.us/j/85999849100?pwd=XI2092DZNeT702iEwqnibB28Y9vsVi.1'
-
-Passcode: 52367011 
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://deakin.au.panopto.com/Panopto/Pages/Embed.aspx?id=7b7a3015-e61f-477a-a71a-b44100064733&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="05_Melissa_Lee_Monsters"></iframe>
+</div>
