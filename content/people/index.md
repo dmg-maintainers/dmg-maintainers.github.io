@@ -14,6 +14,7 @@ sections:
           - Researchers
           - PhD Students
           - MSc Students
+          - Postgrad Students
           - Honours Students
           - Undergrad Students
           - Current Visitors
