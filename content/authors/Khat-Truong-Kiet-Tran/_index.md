@@ -10,7 +10,7 @@ last_name: Tran
 superuser: true
 
 # Role/position
-role: Undergrad Students
+role: Undergraduate Student, Bachelor of AI
 
 # Organizations/Affiliations
 organizations:
