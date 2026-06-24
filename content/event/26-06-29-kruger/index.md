@@ -1,7 +1,7 @@
 ---
 title: DMG Seminar by Prof Alexander Kruger
-event: DMG Seminar
-event_url: 
+event: DMG Seminar (Prof Alexander Kruger)
+event_url: https://teams.microsoft.com/meet/45502501348157?p=EKvvCYkMf36Ccbgy6y
 
 #location: Wowchemy HQ
 #address:
@@ -36,7 +36,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=362743a0-df85-4470-af40-b34f002f785e'
+#url_video: 'https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=362743a0-df85-4470-af40-b34f002f785e'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
