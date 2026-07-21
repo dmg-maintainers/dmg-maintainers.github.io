@@ -36,7 +36,8 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-#url_video: 'https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=362743a0-df85-4470-af40-b34f002f785e'
+url_video: 'https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=6e331b86-c14b-4208-955e-b48e0080aca3'
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
