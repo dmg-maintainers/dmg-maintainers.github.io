@@ -1,7 +1,7 @@
 ---
 title: "DUMG Talk by Dr. Kerri Morgan"
 event: "DUMG Seminar"
-event_url: ': https://teams.microsoft.com/meet/470944949062369?p=rp1azs8Riy1jdbPwzz'
+event_url: 'https://teams.microsoft.com/meet/470944949062369?p=rp1azs8Riy1jdbPwzz'
 location: 'Deakin Downtown'
 address:
   street: Tower 2, Level 12, 727 Collins St 
@@ -77,7 +77,11 @@ Shrinking networks in the age of big data
 **Abstract:**
 In the age of big data, analysing large, complex networks and identifying meaningful structures within them are important tasks, but they are often infeasible for very large graphs that are used to model these networks. In this talk, we explore techniques for shrinking graphs while preserving essential structure, including vertex and edge deletion and edge contraction. We also examine generalisations of existing methods for identifying subgraphs of interest, providing practical approaches to simplifying networks and uncovering meaningful patterns.
 
- 
+
+**Video Link:** 
+
+https://teams.microsoft.com/meet/470944949062369?p=rp1azs8Riy1jdbPwzz
+
 <!-- **Video Recording**
 
  <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
