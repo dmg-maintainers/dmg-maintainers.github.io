@@ -48,7 +48,7 @@ image:
 #url_slides:
 #url_code:
 #url_pdf: '/flyers/DUMG/DUMG_Kruger_2025.pdf'
-#url_video: 'https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=7b7a3015-e61f-477a-a71a-b44100064733'
+url_video: 'https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=20f6fc9a-49de-457e-b84b-b4b40021153f'
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
